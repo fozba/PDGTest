@@ -8,5 +8,6 @@ Folders "Onerate" and "Bigdata" has tabular flow rates that allows data generato
 Updates Planned:
 
 •Writing both the tabular data generator and pressure response data generator (superposition function) in pure C to create a fast executable file that could be solely used as a "Pressure Response Data Generator".
+
 •Wrapping a simple GUI around the Python code, which also includes advanced noise and/or outlier addition settings.
 
